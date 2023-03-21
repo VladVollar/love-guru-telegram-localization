@@ -1,1 +1,1 @@
-# love-guru-telegram
+# love-guru-telegram-localization
