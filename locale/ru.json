@@ -6,6 +6,7 @@
   "enterAge": {
     "userAgePrompt": "Введите свой возраст:",
     "userAgeNumError": "Пожалуйста, введите число.",
-    "userAgeTwoNumError": "Пожалуйста, введите двухзначное число."
+    "userAgeTwoNumError": "Пожалуйста, введите двухзначное число.",
+    "enterAgeButton": "Ввести возраст ✏️"
     }
 }
