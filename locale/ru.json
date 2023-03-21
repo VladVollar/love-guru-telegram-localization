@@ -9,6 +9,15 @@
     "userAgeTwoNumError": "Пожалуйста, введите двухзначное число."
     },
   "buttons": {
+    "startMessage": {
+      "chooseLanguage_ru": "Русский"
+      },
+    "okayStart": {
+      "okayStart": "Хорошо 👌🏻"
+      },
+    "getStarted": {
+      "getStarted": "Отлично! Давай начнём 🚀"
+      },
     "enterAge": {
       "enterAgeButton": "Ввести возраст ✏️"
       }
